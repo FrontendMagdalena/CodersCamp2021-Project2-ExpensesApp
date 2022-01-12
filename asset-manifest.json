@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodersCamp2021-Project2-ExpensesApp/static/css/main.4682cbd0.css",
+    "main.js": "/CodersCamp2021-Project2-ExpensesApp/static/js/main.74bc2e78.js",
+    "index.html": "/CodersCamp2021-Project2-ExpensesApp/index.html",
+    "main.4682cbd0.css.map": "/CodersCamp2021-Project2-ExpensesApp/static/css/main.4682cbd0.css.map",
+    "main.74bc2e78.js.map": "/CodersCamp2021-Project2-ExpensesApp/static/js/main.74bc2e78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4682cbd0.css",
+    "static/js/main.74bc2e78.js"
+  ]
+}
